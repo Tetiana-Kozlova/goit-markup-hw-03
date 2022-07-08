@@ -120,6 +120,7 @@ img {
   min-width: 200px;
   min-height: 50px;
   padding: 8px 30px;
+  margin-bottom: 200px;
 
   background-color: var(--accent-txt-cl);
   color: var(--light-txt-cl);
@@ -262,6 +263,7 @@ img {
 .main-title {
   margin-top: 0;
   margin-bottom: 30px;
+  padding-top: 200px;
   font-weight: 900;
   font-size: 44px;
   line-height: calc(60 / 44);
